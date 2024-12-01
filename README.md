@@ -20,9 +20,10 @@ This project employs advanced Natural Language Processing (NLP) and Machine Lear
 - Data Visualization (Matplotlib, Seaborn, WordCloud)
 
 ## Project Team
-- [Team Member 1 Name](#)
-- [Team Member 2 Name](#)
-- [Team Member 3 Name](#)
+- NIDHI DEEPAK
+- SRI VARDHAN GOUD PADALA
+- PRANATHI REDDY MULA
+- AKHILA DANDUBOYENA
 
 ## Repository Structure
 - `Data/`: Sample dataset or links to the dataset source.
@@ -33,24 +34,7 @@ This project employs advanced Natural Language Processing (NLP) and Machine Lear
 
 ---
 
-## Getting Started
-1. Clone the repository.
-2. Install required dependencies using `requirements.txt`.
-3. Run scripts in the `Scripts/` folder to replicate the analysis.
-
----
-
 ## Results
 - The Naïve Bayes model achieved **92% accuracy** on test data.
 - Word cloud visualizations highlighted frequently discussed topics.
 - Insights from LDA revealed trending topics across categories.
-
----
-
-## References
-[Add references here]
-
----
-
-## Contact
-For inquiries or collaboration, contact [Your Email].
