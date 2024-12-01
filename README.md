@@ -38,3 +38,8 @@ This project employs advanced Natural Language Processing (NLP) and Machine Lear
 - The Naïve Bayes model achieved **92% accuracy** on test data.
 - Word cloud visualizations highlighted frequently discussed topics.
 - Insights from LDA revealed trending topics across categories.
+
+##  Findings
+-  Entertainment and Business were dominant categories.
+-  Reuters and Huffington Post were leading publishers.
+-  The Naïve Bayes model was effective for classification, achieving 92% accuracy.
